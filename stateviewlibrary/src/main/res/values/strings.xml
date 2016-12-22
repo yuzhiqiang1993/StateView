@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testShowView</string>
+
+    <string name="noData">暂无数据</string>
+    <string name="noNet">网络无连接，请检查</string>
+    <string name="timeOut">连接超时，请重试</string>
+    <string name="loaddingData">正在加载中...</string>
+
+</resources>
